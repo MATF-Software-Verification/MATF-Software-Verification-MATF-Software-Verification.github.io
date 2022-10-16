@@ -301,6 +301,7 @@ html {
 
       &:visited:after {
         background-color: #fff;
+        visibility: hidden;
       }
     }
   }
