@@ -9,6 +9,7 @@ title: Vežbe
 - [GitHub organizacija sa materijalima i studentskim projektima](https://github.com/MATF-Software-Verification)
 - [Beleške sa vežbi](https://raw.githubusercontent.com/MATF-Software-Verification/VS-materials/main/MATERIALS.pdf)
 
+_Napomena: Snimci vežbi nisu dostupni zbog značajne promene u organizaciji vežbi u odnosu na prethodne dve godine kada je kurs poslednji put držan._
 
 ## Oblasti pokrivene vežbama
 
