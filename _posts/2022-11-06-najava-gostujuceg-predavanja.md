@@ -15,14 +15,14 @@ Nakon predavanja studenti će imati priliku da odgovore na nekoliko pitanja veza
 U okviru predavanja biće pokrivne naredne teme:
   *   Uvod u Web UI test automation (zasto i kada koristiti UI automation)
   *   Šta je Selenium?
-     -   Selenium WebDriver
-     -   Element lokatori
-     -   Wait-ovi
+      -   Selenium WebDriver
+      -   Element lokatori
+      -   Wait-ovi
   *   Selenium automation framework
-     -   TestNG
-     -   Konfiguracija (mogucnost izvrsavanja testova na razlicitim environmentima, razlicitim browserima itd.)
-     -   Inicializacija WebDrivera i paralelno izvrsavanje testova
-     -   Reporting
+      -   TestNG
+      -   Konfiguracija (mogucnost izvrsavanja testova na razlicitim environmentima, razlicitim browserima itd.)
+      -   Inicializacija WebDrivera i paralelno izvrsavanje testova
+      -   Reporting
   *   POM (Page Object Model) pattern (kako je implementiran na projektu i zasto je koristan)
   *   Prednosti i mane Seleniuma i poredjenje sa drugim automation toolovima (Cypress, Selenide...)
 
