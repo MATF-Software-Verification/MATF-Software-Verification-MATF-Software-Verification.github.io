@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teme za seminarske radove
+title: Teme za teorijske seminarske radove
 subtitle: 
 categories: Predavanja
 tags: [seminarski]
