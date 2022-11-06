@@ -93,6 +93,7 @@ Navedeni matarijali su dosutupni besplatno na internetu (potražite):
     * Seminarski rad, Milan Čugurović: [Intuicija - preciznije]({{site.materials}}/vs/predavanja/08_abstraktna_interpretacija/28_Milan_Cugurovic_ApstraktnaInterpretacijaUvod.pdf).  
     * Seminarski rad, Dimitrije Špadijer: [Teorija - preciznije]({{site.materials}}/vs/predavanja/08_abstraktna_interpretacija/29_DimitrijeSpadijer_ApstraktnaInterpretacija.pdf).
 
+* Dodatni materijali za učenje [(deo 1)]({{site.poincare-vs}}/predavanja/dodatni_materijali/materijali.zip), [(deo 2 - seminarski radovi)](https://github.com/MATF-Software-Verification), [(deo 3)]({{site.poincare-vs}}/predavanja/dodatni_materijali/materijali2019.zip).
 
 ## Literatura za vežbe
 - [GitHub organizacija sa materijalima i studentskim projektima](https://github.com/MATF-Software-Verification)

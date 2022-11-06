@@ -36,4 +36,4 @@ Studenti koji su zainteresovani za dodatnih 5 poena (za ukupan zbir 105) mogu da
 
 * Primene tehnika verifikacije softvera u [biologiji]({{site.poincare-vs}}/predavanja/neke_primene/14_SBMME_UnaStankovic.pdf) i u [sintezi koda]({{site.poincare-vs}}/predavanja/neke_primene/SintezaProgramaRistovicIvanisevicKatanicKovacevic.pdf).
 
-* Dodatni materijali za učenje [(deo 1)]({{site.poincare-vs}}/predavanja/dodatni_materijali/materijali.zip), [(deo 2 - seminarski radovi)](https://github.com/MATF-Software-Verification), [(deo 3)]({{site.poincare-vs}}/predavanja/dodatni_materijali/materijali2019.zip).
+
