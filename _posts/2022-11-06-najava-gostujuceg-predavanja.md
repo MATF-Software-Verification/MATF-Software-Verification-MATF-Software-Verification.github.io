@@ -9,13 +9,13 @@ tags: [vazno]
 <script>
   var t = document.getElementsByTagName('html')[0].dataset.theme;
   if (t == 'dark') {
-    document.getElementById("img-createq").src = "_posts/images/Createq-Logo-white.png";
+    document.getElementById("img-createq").src = "/assets/logos/Createq-Logo-white.png";
   }
 </script>
 
 <div class="square">
 <div style="float: left; margin: 5px;">
-<img id="img-createq" src="_posts/images/Createq-Logo-black.png">
+<img id="img-createq" src="/assets/logos/Createq-Logo-black.png">
 </div>
 <div style="text-align: justify">
 <p>
