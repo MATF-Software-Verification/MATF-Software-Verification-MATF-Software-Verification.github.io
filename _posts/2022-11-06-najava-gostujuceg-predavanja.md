@@ -6,26 +6,11 @@ categories: Predavanja
 tags: [vazno]
 ---
 
-<script>
-  var t = document.getElementsByTagName('html')[0].dataset.theme;
-  if (t == 'dark') {
-    document.getElementById("img-createq").src = "/assets/logos/Createq-Logo-white.png";
-  }
-</script>
+![CREATEQ](/assets/logos/Createq-Logo-black.png)
 
-<div class="square">
-<div style="float: left; margin: 20px; width: 30%; height: 30%;">
-<img id="img-createq" src="/assets/logos/Createq-Logo-black.png">
-</div>
-<div style="text-align: justify">
-<p>
 U okviru termina predavanja 17. novembra u 10h imaćemo goste iz kompanije CREATEQ koji će pričati o automatskom testiranju koristeći okvir za automatizaciju testiranja Selenium. Detalji o predavanju, predavaču i firmi su dati u nastavku.
-</p>
-</div>
-
 
 Nakon predavanja studenti će imati priliku da odgovore na nekoliko pitanja vezanih za predavanje i da na osnovu toga dobiju nagradne poene. 
-
 
 U okviru predavanja biće pokrivne naredne teme:
   *   Uvod u Web UI test automation (zasto i kada koristiti UI automation)
@@ -50,3 +35,4 @@ Diplomirao i završio master na FONu (smer Informacioni sistemi i tehnologije) 2
 CREATEQ je švajcarska softverska kompanija sa više od 20 godina iskustva u avio industriji, finansijskom sektoru, energetici, e-učenju i telekomunikacijama. Kompanija broji više od 300 članova raspoređenih u 5 zemalja: Švajcarskoj, Srbiji, Rumuniji, Moldaviji i uskoro Maroku. Koristimo preko 200 tehnologija, a ponosimo se ekspertima u oblastima Jave, .NET, PHP, Mobile, Web i itd.
 
 Otvorene pozicije vas čekaju na linku: [https://createq.space/careers/](https://createq.space/careers/)
+
