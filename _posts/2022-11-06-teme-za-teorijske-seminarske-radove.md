@@ -11,3 +11,5 @@ Teme za teorijske seminarske radove možete da nađete na narednoj [adresi]({{si
 Prijava tema vrši se u **novembru** a rok za izradu teorijskog seminarskog rada je do **početka prvog ispitnog roka u januaru 2023**. 
 
 Prijava teme radi se preko naredne [forme](https://forms.gle/tWCw3H9Sed2QYux29). 
+
+Link na formu za predavnaje seminarskog rada biće uskoro objavljen.
