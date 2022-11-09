@@ -5,8 +5,7 @@ title: Literatura
 
 ##  Literatura za predavanja
 Navedeni matarijali su dosutupni besplatno na internetu (potražite):
-- Materijali koji se mogu naći u okviru kartice za predavanja (slajdovi i tekstovi sa predavanja i razni dodatni materijali)
-- Izabrani naučni radovi, seminarski radovi, master radovi (linkovi dostupni u okviru kartice za predavanja)
+- Materijali koji se mogu naći u okviru dela za predavanja (slajdovi i tekstovi sa predavanja, skripta i video materijali)
 - J. Laski, W. Stanley: Software Verification and Analysis. Springer - Verlag, London, 2009.
 - J. B. Almeida, M. J. Frade, J. S. Pinto, S. M. de Sousa: Rigorous Software Development (An introduction to Program Verification). Springer - Verlag, London 2011.
 - Biere A, Cimatti A, Clarke EM, Strichman O, Zhu Y. Bounded model checking. Advances in computers. 2003 Dec;58(11):117-48.

@@ -13,6 +13,8 @@ Studenti koji su zainteresovani za dodatnih 5 poena (za ukupan zbir 105) mogu da
 
 [Predavanja - video materijali.](https://www.youtube.com/playlist?list=PL9YwiYfLWcwyVHH5ycdvghwZMKPeONgB5)  
 
+[Skripta]({{site.poincare-vs}}/verifikacija_softvera.pdf)
+
 * Uvod: o kursu i obavezama na kursu.
 
 * Kratak pregled kursa. Briga o kvalitetu softvera. [Slajdovi]({{site.poincare-vs}}/predavanja/01_uvod/02_motivacija_slajdovi.pdf). [Tekst]({{site.poincare-vs}}/predavanja/01_uvod/02_motivacija.pdf).  
