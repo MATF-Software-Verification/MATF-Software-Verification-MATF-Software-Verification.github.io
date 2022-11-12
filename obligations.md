@@ -65,7 +65,7 @@ Teorijski seminarski rad se predaje preko naredne [forme](http://www.alas.matf.b
 
 Da bi se položio ispit, neophodno je imati **51** poen, pri čemu je neophodno ostvariti bar **20 poena** na teoriji na završnom ispitu i bar **20 poena** na predispitnim obavezama.
 
-**U terminu ispitnog roka** možete polagati sve delove ispita ili samo jedan deo. Pred izlazak na ispit potrebno je preko forme u okviru strane kursa prijaviti namere (odbrana seminarskog rada, teorijski ispit ili oba). Odbrana praktičnog seminarskog rada može i ne mora da prethodi izlasku na ispita. 
+**U terminu ispitnog roka** možete polagati sve delove ispita ili samo jedan deo. Pred izlazak na ispit potrebno je preko forme u okviru strane kursa prijaviti namere (odbrana seminarskog rada, teorijski ispit ili oba). Odbrana praktičnog seminarskog rada može i ne mora da prethodi izlasku na teorijski ispit. 
 
 
 Za sve potencijalne nejasnoće, javite se mejlom! 
