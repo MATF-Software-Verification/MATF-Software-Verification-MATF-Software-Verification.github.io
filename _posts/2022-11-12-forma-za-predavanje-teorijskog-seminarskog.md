@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predavanje teorijskog seminarskog rad
+title: Predavanje teorijskog seminarskog rada
 subtitle: 
 categories: Predavanja
 tags: [seminarski]
