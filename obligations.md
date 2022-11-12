@@ -41,6 +41,7 @@ U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan 
     - Ukoliko su testovi deo projekta, testovi treba da bude unutar repozitorijuma zajedno sa opisom kako se pokreću. Uključiti potencijalne skripte za pokretanje testova ukoliko su korišćene.
 
 Pored `README` fajla, potrebno je da postoji i fajl `SystemDescription` (pdf ili tekstualni fajl) koji sadrži:
+- imena autora
 - opis problema
 - opis arhitekture sistema (opis osnovnih modula implementacije),
 - opis rešenja problema (osnovne ideje, obrazloženja za ključne odluke, opis osnovnog algoritma)
@@ -49,6 +50,14 @@ Timski seminarski radovi se brane u dodatnom terminu koji se dogovara sa nastavn
 
 ### Samostalni teorijski seminarski rad (10 poena)
 Teorijski seminarski radovi se biraju u toku meseca novembra, a rok za predavanje je početkom januara. Teorijski seminarski rad nije obavezan. Precizni termini su uvek istaktnutu u okviru [Obaveštenja](archives.html).
+
+Teme za teorijske seminarske radove možete da nađete na narednoj [adresi]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2022.pdf). Teme koje su već izabrane možete da pratite [ovde]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2022.txt).
+
+Prijava tema vrši se u **novembru** a rok za izradu teorijskog seminarskog rada je do **početka prvog ispitnog roka u januaru 2023**. 
+
+Prijava teme radi se preko naredne [forme](https://forms.gle/tWCw3H9Sed2QYux29). 
+
+Teorijski seminarski rad se predaje preko naredne [forme](http://www.alas.matf.bg.ac.rs/~milena/vs_seminarski.html). Pratite uputstva data u okviru forme. 
 
 
 ## Završni ispit (50 poena):
