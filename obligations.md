@@ -61,7 +61,7 @@ Teorijski seminarski rad se predaje preko naredne [forme](http://www.alas.matf.b
 
 
 ## Završni ispit (50 poena):
-- **Teorijski ispit (50 poena)**: Polaže se pismeno, izvlači se pet ispitnih pitanja sa [spiska ispitnih pitanja](predavanja/VS_IspitanaPitanja.pdf).
+- **Teorijski ispit (50 poena)**: Polaže se pismeno, izvlači se pet ispitnih pitanja sa [spiska ispitnih pitanja]({{site.poincare-vs}}/predavanja/VS_IspitanaPitanja.pdf).
 
 Da bi se položio ispit, neophodno je imati **51** poen, pri čemu je neophodno ostvariti bar **20 poena** na teoriji na završnom ispitu i bar **20 poena** na predispitnim obavezama.
 
