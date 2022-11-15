@@ -3,15 +3,15 @@ layout: post
 title: Polaganje teorije u toku godine
 subtitle: 
 categories: Predavanja
-tags: [rezultati]
+tags: [ispit]
 ---
 
 Studenti zainteresovani da deo teorije polože u terminima predavanja u toku semestra mogu da rade ispitna pitanja u narednim terminima:
--- Prvo ispitno pitanje - 17. novembar (pitanja sa spiska ispitnih pitanja vezana za testiranje (5-19))
--- Drugo ispitno pitanje - 1. decembar (pitanja sa spiska ispitnih pitanja vezana za kvalitet softvera (1-3), debagovanje, profajliranje, analizu binarnog koda (22-34))
--- Treće ispitno pitanje - 15. decembar (pitanja sa spiska ispitnih pitanja vezana za simboličko izvršavanje (41-56))
--- Četvrto ispitno pitanje - 29. decembar (pitanja sa spiska ispitnih pitanja vezana za proveravanje modela (57-72))
--- Peto ispitno pitanje - u terminu polaganja ispita (pitanja sa spiska ispitnih pitanja: 4, 20-21, 35-40, 73-79)
+- Prvo ispitno pitanje - 17. novembar (pitanja sa spiska ispitnih pitanja vezana za testiranje (5-19))
+- Drugo ispitno pitanje - 1. decembar (pitanja sa spiska ispitnih pitanja vezana za kvalitet softvera (1-3), debagovanje, profajliranje, analizu binarnog koda (22-34))
+- Treće ispitno pitanje - 15. decembar (pitanja sa spiska ispitnih pitanja vezana za simboličko izvršavanje (41-56))
+- Četvrto ispitno pitanje - 29. decembar (pitanja sa spiska ispitnih pitanja vezana za proveravanje modela (57-72))
+- Peto ispitno pitanje - u terminu polaganja ispita (pitanja sa spiska ispitnih pitanja: 4, 20-21, 35-40, 73-79)
 
 Svaka provera znanja trajaće 15-20 minuta. Jedno ispitno pitanje vredi 10 poena. 
 
