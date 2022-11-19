@@ -6,6 +6,7 @@ title: Literatura
 ##  Literatura za predavanja
 - [Predavanja - video materijali.](https://www.youtube.com/playlist?list=PL9YwiYfLWcwyVHH5ycdvghwZMKPeONgB5)
 - [Skripta]({{site.poincare-vs}}/verifikacija_softvera.pdf)
+- Slajdovi sa predavanja (dostupni u okviru dela za predavanja)
 
 Naredni materijali su dosutupni besplatno na internetu (potražite):
 - Materijali koji se mogu naći u okviru dela za predavanja (slajdovi i tekstovi sa predavanja, skripta i video materijali)
