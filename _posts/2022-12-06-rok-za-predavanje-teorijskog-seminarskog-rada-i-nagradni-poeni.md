@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dodatni poeni za predavanje teorijskog seminarskog rada pre roka
+title: Dodatni poeni
 subtitle: 
 categories: Predavanja
 tags: [seminarski][vazno]
