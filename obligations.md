@@ -17,7 +17,10 @@ Obaveze studenata uključuju predispitne obaveze i ispit. Predispitne obaveze se
 Studenti imaju opciju da biraju između dva tipa seminarskog rada. Seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Seminarski rad je neophodno prijaviti do 31. decembra.
 
 #### Praktični seminarski rad (40 poena)
-Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Validni kandidati su studentski projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa. Alternativno, moguće je analizirati i proizvoljni projekat otvorenog koda. Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je praktična, uz reprodukciju delova seminarskog rada.
+Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je praktična, uz reprodukciju delova seminarskog rada. Uslovi izrade praktičnog seminarskog rada:
+- Projekat koji se analizira mora biti otvorenog koda. Validni kandidati su studentski projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa.
+- Cilj projekta je pronalazak bagova ili uskih grla programa. Nije neophodno da se zapravo pronađu bagovi kako bi seminarski rad bio uspešan - analiza i izveštaji čine seminarski rad.
+- Neophodno je iskoristiti barem **4** alata/tehnika u okviru seminarskog rada (to uključuje i pisanje testova koji se broje kao jedna stavka; svaki Valgrind alat se broji zasebno s tim što nije dozvoljeno samo koristiti Valgrind). Dozvoljeno je korišćenje alata koji nisu pokriveni vežbama.
 
 U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan detaljan `README` fajl koji sadrži:
 - Opis projekta koji je analiziran i odgovarajući linkovi do izvornog koda projekta - grana koja je analizirana i heš kod commit-a.
@@ -25,7 +28,61 @@ U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan 
     - Ukoliko su testovi deo projekta, testovi treba da bude unutar repozitorijuma zajedno sa opisom kako se pokreću. Uključiti potencijalne skripte za pokretanje testova ukoliko su korišćene.
 - Spisak pronađenih bagova.
 
-Pored `README` fajla, potrebno je da postoji i fajl `SystemDescription` (pdf ili tekstualni fajl) koji sadrži detaljan opis analize projekta sa spiskom naredbi koje su korišćene i zaključcima koji su napravljeni.
+Pored `README` fajla, potrebno je da postoji i (tekstualni ili PDF) fajl `ProjectAnalysisReport` koji sadrži detaljan opis analize projekta sa spiskom naredbi koje su korišćene i zaključcima koji su napravljeni. Referenca na projekat koji se analizira se može dodati kao [git submodul](https://git-scm.com/docs/git-submodule). Svaki alat koji je korišćen treba da ima poseban direktorijum u kome se nalaze rezultati rada alata kao i opcione skripte za pokretanje.
+
+Primer organizacije repozitorijuma:
+```txt
+.
+├── git-submodule-of-project-to-analyze @ commit-hash
+├── src
+│   ├── run_tests.py
+│   ├── RunningTests.md
+│   ├── RunningTests.pdf
+│   └── tests
+│       ├── MyUnitTests1.cpp
+│       └── MyUnitTests2.cpp
+├── klee
+│   ├── run_klee.sh
+│   ├── failed-tests
+│   │   ├── test00001.ktest
+│   │   └── ...
+|   └── klee-test-corpus.zip
+├── cbmc
+│   ├── run_cbmc.sh
+│   ├── cbmc-outputs
+│   │   ├── run1.stdout
+│   │   ├── run2.stdout
+│   │   ├── run3.stdout
+│   │   ├── run3.stderr
+│   │   └── ...
+│   └── counterexamples
+│       ├── counterexample1
+│       ├── counterexample2
+│       ├── counterexample3
+│       └── ...
+├── valgrind
+│   ├── callgrind
+│   │   ├── callgrind.out.12312
+│   │   ├── callgrind.out.12313
+│   │   ├── callgrind.out.12314
+│   │   ├── callgrind.out.12315
+│   │   ├── kcachegrind_12315_1.png
+│   │   ├── kcachegrind_12315_2.png
+│   │   ├── kcachegrind_12315_3.png
+│   │   ├── kcachegrind_12315_4.png
+│   │   └── run_callgrind.sh
+│   └── massif
+│       ├── massif.out.12312
+│       ├── massif.out.12313
+│       ├── massif.out.12314
+│       ├── massif.out.12315
+│       └── run_massif.sh
+├── .gitignore
+├── .gitmodules
+├── README
+├── ProjectAnalysisReport.md
+└── ProjectAnalysisReport.pdf
+```
 
 Praktični seminarski radovi se brane u terminu ispita. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova ukoliko su testovi deo seminarskog rada.
 
