@@ -15,9 +15,11 @@ Studenti zainteresovani da deo teorije polože u terminima predavanja u toku sem
 
 Svaka provera znanja trajaće 15-20 minuta. Jedno ispitno pitanje vredi 10 poena. 
 
-Možete izaći na jedno ili više ispitnih pitanja, nezavisno. Ako izađete, poeni su konačni i ne možete ponovo da polažete to ispitno pitanje na ispitu. Ako ne izađete, onda ćete to polagati u regularnom terminu ispita. Za sve nejasnoće, javite se mejlom. 
+Možete izaći na jedno ili više ispitnih pitanja, nezavisno. U jednom terminu možete polagati i više ispitnih pitanja (npr nadoknaditi ako niste polagali neko prethodno pitanje). U slučaju polaganja više ispitnih pitanja, nije zagarantovana tišina (predavanje može da bude u toku). 
 
-Rezultate ćete moći da pratite na narednoj [adresi.](http://www.verifikacijasoftvera.matf.bg.ac.rs//vs/rezultati/VerifikacijaSoftvera2022.xlsx)
+Ako izađete, poeni su konačni i ne možete ponovo da polažete to ispitno pitanje na ispitu. Ako ne izađete, onda ćete to polagati u regularnom terminu ispita. Za sve nejasnoće, javite se mejlom. 
+
+Rezultate ćete moći da pratite na narednoj [adresi.](https://docs.google.com/spreadsheets/d/1u9i4jX2hx8vIDGadbAJhGKY04Md_sVmJ/edit?usp=sharing&ouid=114901581783926765440&rtpof=true&sd=true)
 
 
 
