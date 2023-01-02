@@ -2,7 +2,7 @@
 layout: post
 title: Prijave praktičnih seminarskih radova
 subtitle: 
-categories: Predavanja
+categories: Seminarski
 tags: [vazno,seminarski]
 ---
 
