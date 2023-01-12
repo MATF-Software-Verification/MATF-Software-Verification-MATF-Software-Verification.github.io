@@ -13,10 +13,12 @@ Obaveze studenata uključuju predispitne obaveze i ispit. Predispitne obaveze se
 
 ## Predispitne obaveze (od 40 do 70 poena)
 
-### Seminarski rad
-Studenti imaju opciju da biraju između dva tipa seminarskog rada. Seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Seminarski rad je neophodno prijaviti do 31. decembra. 
+Predispitne obaveze obuhvataju praktični seminarski rad (koji je obavezan) i teorijski seminarski rad (koji nije obavezan). Da bi se položio ispit minimalni broj poena na predispitnim obavezama je 20.
 
-#### Praktični seminarski rad (40 poena)
+### Seminarski rad
+Studenti imaju opciju da biraju između dva tipa praktičnog seminarskog rada. Praktični seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Praktični seminarski rad je neophodno prijaviti do 31. decembra. 
+
+#### Samostalni praktični seminarski rad (40 poena)
 Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je praktična, uz reprodukciju delova seminarskog rada. Uslovi izrade praktičnog seminarskog rada:
 - Projekat koji se analizira mora biti otvorenog koda. Validni kandidati su studentski projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa.
 - Cilj projekta je pronalazak bagova ili uskih grla programa. Nije neophodno da se zapravo pronađu bagovi kako bi seminarski rad bio uspešan - analiza i izveštaji čine seminarski rad.
@@ -88,13 +90,15 @@ Praktični seminarski radovi se brane u terminu ispita. Očekuje se da student d
 
 Forma za prijavu samostalnih seminarskih radova se može naći na sledećem [linku](https://forms.gle/uhDiDK2R75J7vdjH6) (odabrati opciju _samostalni seminarski rad_). Repozitorijumi koji su već bili tema za samostalni seminarski rad iz ovog kursa se mogu naći na sledećem [linku](https://docs.google.com/spreadsheets/d/1tSoUTqnhZ7V26ov_o9QCxz_I1JAxEwFAkB34PmzVOhQ/edit?usp=sharing).
 
-#### Istraživački seminarski rad (preporuka 2+ člana, 60 poena)
+#### Istraživački praktični seminarski rad (preporuka 2+ člana, 60 poena)
 
 *Napomena: Iako zamišljen da se radi timski, moguće je ovaj tip seminarskog rada raditi samostalno.*
 
-Većeg obima, istraživačkog tipa. Teme za projekat su dostupne unapred. Izrada podrazumeva kreiranje novih ili nadograđivanje postojećih alata za verifikaciju softvera, kao i njihova verifikacija koristeći barem alate pomenute na vežbama. Nakon odabira projekta, i odgovarajućeg odobrenja od strane nastavnika, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je usmena, uz prikaz rada.
+Većeg obima, istraživačkog tipa. Teme za projekat su dostupne unapred. Izuzetno, ukoliko imate neku ideju možete to da predložite u pazi između predavanja. 
 
-Spisak tema se može naći na [ovom linku](https://docs.google.com/document/d/1yueEK1Cs7Oru6gCFrSjrf4FfK5-P9P4TB21XBr-gXLs/edit?usp=sharing). 
+Izrada podrazumeva kreiranje novih ili nadograđivanje postojećih alata za verifikaciju softvera, kao i njihovu verifikaciju koristeći barem alate pomenute na vežbama. Nakon odabira projekta, i odgovarajućeg odobrenja od strane nastavnika, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je usmena, uz prikaz rada.
+
+Spisak predviđenih tema se može naći na [ovom linku](https://docs.google.com/document/d/1yueEK1Cs7Oru6gCFrSjrf4FfK5-P9P4TB21XBr-gXLs/edit?usp=sharing). 
 
 U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan detaljan `README` fajl koji sadrži:
 - Na koji način se projekat može prevesti i pokrenuti (sve neophodne biblioteke, alati i zavisnosti)
