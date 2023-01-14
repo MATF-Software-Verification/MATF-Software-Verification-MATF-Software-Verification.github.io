@@ -16,9 +16,13 @@ Obaveze studenata uključuju predispitne obaveze i ispit. Predispitne obaveze se
 Predispitne obaveze obuhvataju praktični seminarski rad (koji je obavezan) i teorijski seminarski rad (koji nije obavezan). Da bi se položio ispit minimalni broj poena na predispitnim obavezama je 20.
 
 ### Seminarski rad
-Studenti imaju opciju da biraju između dva tipa praktičnog seminarskog rada. Praktični seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Praktični seminarski rad je neophodno prijaviti do 31. decembra. 
+
+Studenti imaju opciju da biraju između dva tipa praktičnog seminarskog rada. Praktični seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Praktični seminarski rad je neophodno prijaviti do 20. decembra. 
+
+Praktični seminarski radovi se brane u terminu ispita uz prisustvo asistenta. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova ukoliko su testovi deo seminarskog rada.
 
 #### Samostalni praktični seminarski rad (40 poena)
+y
 Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je praktična, uz reprodukciju delova seminarskog rada. Uslovi izrade praktičnog seminarskog rada:
 - Projekat koji se analizira mora biti otvorenog koda. Validni kandidati su studentski projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa.
 - Cilj projekta je pronalazak bagova ili uskih grla programa. Nije neophodno da se zapravo pronađu bagovi kako bi seminarski rad bio uspešan - analiza i izveštaji čine seminarski rad.
@@ -86,8 +90,6 @@ Primer organizacije repozitorijuma:
 └── ProjectAnalysisReport.pdf
 ```
 
-Praktični seminarski radovi se brane u terminu ispita. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova ukoliko su testovi deo seminarskog rada.
-
 Forma za prijavu samostalnih seminarskih radova se može naći na sledećem [linku](https://forms.gle/uhDiDK2R75J7vdjH6) (odabrati opciju _samostalni seminarski rad_). Repozitorijumi koji su već bili tema za samostalni seminarski rad iz ovog kursa se mogu naći na sledećem [linku](https://docs.google.com/spreadsheets/d/1tSoUTqnhZ7V26ov_o9QCxz_I1JAxEwFAkB34PmzVOhQ/edit?usp=sharing).
 
 #### Istraživački praktični seminarski rad (preporuka 2+ člana, 60 poena)
@@ -96,7 +98,7 @@ Forma za prijavu samostalnih seminarskih radova se može naći na sledećem [lin
 
 Većeg obima, istraživačkog tipa. Teme za projekat su dostupne unapred. Izuzetno, ukoliko imate neku ideju možete to da predložite u pazi između predavanja. 
 
-Izrada podrazumeva kreiranje novih ili nadograđivanje postojećih alata za verifikaciju softvera, kao i njihovu verifikaciju koristeći barem alate pomenute na vežbama. Nakon odabira projekta, i odgovarajućeg odobrenja od strane nastavnika, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je usmena, uz prikaz rada.
+Izrada podrazumeva kreiranje novih ili nadograđivanje postojećih alata za verifikaciju softvera, kao i njihovu verifikaciju koristeći barem alate pomenute na vežbama. Nakon odabira projekta, i odgovarajućeg odobrenja od strane nastavnika, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je usmena, uz prikaz rada. Nakon odbrane istraživačkog seminarskog rada biće sa profesorkom dogovoren termin za prezentovanje rada.
 
 Spisak predviđenih tema se može naći na [ovom linku](https://docs.google.com/document/d/1yueEK1Cs7Oru6gCFrSjrf4FfK5-P9P4TB21XBr-gXLs/edit?usp=sharing). 
 
@@ -113,11 +115,10 @@ Pored `README` fajla, potrebno je da postoji i fajl `SystemDescription` (pdf ili
 - opis arhitekture sistema (opis osnovnih modula implementacije),
 - opis rešenja problema (osnovne ideje, obrazloženja za ključne odluke, opis osnovnog algoritma)
 
-Timski seminarski radovi se brane u dodatnom terminu koji se dogovara sa nastavnicima nakon izrade rada. Očekuje se da tim dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane nastavnika.
-
 Forma za prijavu istraživačkih seminarskih radova se može naći na sledećem [linku](https://forms.gle/uhDiDK2R75J7vdjH6) (ignorisati pitanja vezana za samostalne seminarske radove).
 
 ### Samostalni teorijski seminarski rad (10 poena)
+
 Teorijski seminarski radovi se biraju u toku meseca novembra, a rok za predavanje je početkom januara. Teorijski seminarski rad nije obavezan. Precizni termini su uvek istaktnutu u okviru [Obaveštenja](archives.html).
 
 Teme za teorijske seminarske radove možete da nađete na narednoj [adresi]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2022.pdf). Teme koje su već izabrane možete da pratite [ovde]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2022.txt). Šablon za izradu seminarskog rada možete naći [ovde](http://www.verifikacijasoftvera.matf.bg.ac.rs/vs/seminarski/sablon_za_seminarski_rad.zip).
@@ -127,7 +128,6 @@ Prijava tema vrši se u **novembru** a rok za izradu teorijskog seminarskog rada
 Prijava teme radi se preko naredne [forme](https://forms.gle/tWCw3H9Sed2QYux29). 
 
 Teorijski seminarski rad se predaje preko naredne [forme](http://www.alas.matf.bg.ac.rs/~milena/vs_seminarski.html). Pratite uputstva data u okviru forme. 
-
 
 ## Završni ispit (50 poena)
 **Teorijski ispit (50 poena)**: Polaže se pismeno, izvlači se pet ispitnih pitanja sa [spiska ispitnih pitanja]({{site.poincare-vs}}/predavanja/VS_IspitanaPitanja.pdf).
