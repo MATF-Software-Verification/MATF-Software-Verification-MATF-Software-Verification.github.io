@@ -17,7 +17,7 @@ Predispitne obaveze obuhvataju praktični seminarski rad (koji je obavezan) i te
 
 ### Seminarski rad
 
-Studenti imaju opciju da biraju između dva tipa praktičnog seminarskog rada. Praktični seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Praktični seminarski rad je neophodno prijaviti do 20. decembra. 
+Studenti imaju opciju da biraju između dva tipa praktičnog seminarskog rada. Praktični seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Praktični seminarski rad je neophodno prijaviti do 1. decembra. 
 
 Praktični seminarski radovi se brane u terminu ispita uz prisustvo asistenta. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova ukoliko su testovi deo seminarskog rada.
 
