@@ -16,6 +16,6 @@ Oba ova pitanja imaju ista prva dva dela. To znači, da u okviru oba pitanja je 
 
 Slično, na primer za pitanja 9, 10, 11 i 12 potrebno je definisati šta je testiranje i koje vrste testiranja postoje, pa tek onda objasniti vrste testiranja koje su navedene u nastavku pitanja. 
 
-Dakle, obratite pažnju da *za svako pitanje odgovorite na svako njegovo potpitanje*.
+Dakle, obratite pažnju da **za svako pitanje odgovorite na svako njegovo potpitanje**.
 
-Takođe, kada radite teoriju *najpre prepišite ispitna pitanja*.
+Takođe, kada radite teoriju **najpre prepišite ispitna pitanja**.
