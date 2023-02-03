@@ -29,6 +29,7 @@ Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikac
 - Neophodno je iskoristiti barem **4** alata/tehnika u okviru seminarskog rada (to uključuje i pisanje testova koji se broje kao jedna stavka; svaki Valgrind alat se broji zasebno s tim što nije dozvoljeno samo koristiti Valgrind). Dozvoljeno je korišćenje alata koji nisu pokriveni vežbama.
 
 U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan detaljan `README` fajl koji sadrži:
+- Informacije o autoru.
 - Opis projekta koji je analiziran i odgovarajući linkovi do izvornog koda projekta - grana koja je analizirana i heš kod commit-a.
 - Spisak alata koji su korišćeni za analizu.
     - Ukoliko su testovi deo projekta, testovi treba da bude unutar repozitorijuma zajedno sa opisom kako se pokreću. Uključiti potencijalne skripte za pokretanje testova ukoliko su korišćene.
@@ -103,6 +104,7 @@ Izrada podrazumeva kreiranje novih ili nadograđivanje postojećih alata za veri
 Spisak predviđenih tema se može naći na [ovom linku](https://docs.google.com/document/d/1yueEK1Cs7Oru6gCFrSjrf4FfK5-P9P4TB21XBr-gXLs/edit?usp=sharing). 
 
 U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan detaljan `README` fajl koji sadrži:
+- Informacije o autorima
 - Na koji način se projekat može prevesti i pokrenuti (sve neophodne biblioteke, alati i zavisnosti)
 - Na koji način se izvršna verzija koristi (primeri upotrebe)
 - Koji ulazni primeri se mogu koristiti za upotrebu i testiranje programa.
