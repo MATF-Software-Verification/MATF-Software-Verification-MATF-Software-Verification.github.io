@@ -19,10 +19,10 @@ Predispitne obaveze obuhvataju praktični seminarski rad (koji je obavezan) i te
 
 Studenti imaju opciju da biraju između dva tipa praktičnog seminarskog rada. Praktični seminarski rad je obavezan. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Praktični seminarski rad je neophodno prijaviti do 1. decembra. 
 
-Praktični seminarski radovi se brane u terminu ispita uz prisustvo asistenta. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova ukoliko su testovi deo seminarskog rada.
+Praktični seminarski radovi se brane u terminu ispita uz prisustvo asistenta uz prethodnu najavu mailom od **najmanje 7 dana**. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova ukoliko su testovi deo seminarskog rada.
 
 #### Samostalni praktični seminarski rad (40 poena)
-y
+
 Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je praktična, uz reprodukciju delova seminarskog rada. Uslovi izrade praktičnog seminarskog rada:
 - Projekat koji se analizira mora biti otvorenog koda. Validni kandidati su studentski projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa.
 - Cilj projekta je pronalazak bagova ili uskih grla programa. Nije neophodno da se zapravo pronađu bagovi kako bi seminarski rad bio uspešan - analiza i izveštaji čine seminarski rad.
