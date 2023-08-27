@@ -19,5 +19,6 @@ tags: [vazno,ispit]
 | 09:30 | Sara Kapetinic      | Odbrana |
 | 09:45 | Aleksandar Sarbajic | Odbrana |
 | 10:00 | Emilija Stosic      | Odbrana |
-| 10:15 | Petar Tesic         | Odbrana |
-| 10:30 | Milena Stojić       | Odbrana |
+| 10:15 | Tamara Stojković    | Odbrana |
+| 10:30 | Petar Tesic         | Odbrana |
+| 10:45 | Milena Stojić       | Odbrana |
