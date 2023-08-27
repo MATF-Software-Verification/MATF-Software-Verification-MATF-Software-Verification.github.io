@@ -23,21 +23,26 @@ Praktični seminarski radovi se brane u terminu ispita uz prisustvo asistenta uz
 
 #### Samostalni praktični seminarski rad (40 poena)
 
-Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je praktična, uz reprodukciju delova seminarskog rada. Uslovi izrade praktičnog seminarskog rada:
-- Projekat koji se analizira mora biti otvorenog koda. Validni kandidati su studentski projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa.
+Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je **praktična**, uz reprodukciju delova seminarskog rada.
+
+Ciljevi i uslovi izrade praktičnog seminarskog rada:
+- Projekat koji se analizira mora biti otvorenog koda. Popularni kandidati su studentski projekti, u kom slučaju oni moraju biti projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa.
 - Cilj projekta je pronalazak bagova ili uskih grla programa. Nije neophodno da se zapravo pronađu bagovi kako bi seminarski rad bio uspešan - analiza i izveštaji čine seminarski rad.
-- Neophodno je iskoristiti barem **4** alata/tehnika u okviru seminarskog rada (to uključuje i pisanje testova koji se broje kao jedna stavka; svaki Valgrind alat se broji zasebno s tim što nije dozvoljeno samo koristiti Valgrind). Dozvoljeno je korišćenje alata koji nisu pokriveni vežbama.
+- Neophodno je iskoristiti barem **4** alata/tehnika u okviru seminarskog rada. Pritom:
+  - Testovi se broje kao jedna stavka, i mogu se pisati u bilo kom radnom okviru.
+  - **Napomena**: Praćenje pokrivenosti koda bez testova nema smisla i nije validna metrika. Dakle, `lcov`/`gcov` **se ne broje** kao validan alat bez testova.
+  - Svaki `Valgrind` alat se broji zasebno s tim što nije dozvoljeno samo koristiti `Valgrind`. Dozvoljeno je (i **poželjno**!) korišćenje `Valgrind` alata koji nisu rađeni na vežbama.
+- Za svaki korišćeni alat treba da budu dodate i skripte koje reprodukuju dobijene rezultate.
 
 U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan detaljan `README` fajl koji sadrži:
 - Informacije o autoru.
 - Opis projekta koji je analiziran i odgovarajući linkovi do izvornog koda projekta - grana koja je analizirana i heš kod commit-a.
 - Spisak alata koji su korišćeni za analizu.
-    - Ukoliko su testovi deo projekta, testovi treba da bude unutar repozitorijuma zajedno sa opisom kako se pokreću. Uključiti potencijalne skripte za pokretanje testova ukoliko su korišćene.
-- Spisak pronađenih bagova.
+- Spisak zaključaka.
 
-Pored `README` fajla, potrebno je da postoji i (tekstualni ili PDF) fajl `ProjectAnalysisReport` koji sadrži detaljan opis analize projekta sa spiskom naredbi koje su korišćene i zaključcima koji su napravljeni. Referenca na projekat koji se analizira se može dodati kao [git submodul](https://git-scm.com/docs/git-submodule). Svaki alat koji je korišćen treba da ima poseban direktorijum u kome se nalaze rezultati rada alata kao i opcione skripte za pokretanje.
+Pored `README` fajla, potrebno je da postoji i (markdown ili PDF) fajl `ProjectAnalysisReport` koji sadrži detaljan opis analize projekta i zaključcima koji su napravljeni. Referencu na projekat koji se analizira dodati kao [git submodul](https://git-scm.com/docs/git-submodule). Svaki alat koji je korišćen treba da ima poseban direktorijum u kome se nalaze rezultati rada alata kao i opcione skripte za pokretanje.
 
-Primer organizacije repozitorijuma:
+Organizacija repozitorijuma:
 ```txt
 .
 ├── git-submodule-of-project-to-analyze @ commit-hash
@@ -104,7 +109,7 @@ Izrada podrazumeva kreiranje novih ili nadograđivanje postojećih alata za veri
 Spisak predviđenih tema se može naći na [ovom linku](https://docs.google.com/document/d/1yueEK1Cs7Oru6gCFrSjrf4FfK5-P9P4TB21XBr-gXLs/edit?usp=sharing). 
 
 U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan detaljan `README` fajl koji sadrži:
-- Informacije o autorima
+- Informacije o autorima 
 - Na koji način se projekat može prevesti i pokrenuti (sve neophodne biblioteke, alati i zavisnosti)
 - Na koji način se izvršna verzija koristi (primeri upotrebe)
 - Koji ulazni primeri se mogu koristiti za upotrebu i testiranje programa.
