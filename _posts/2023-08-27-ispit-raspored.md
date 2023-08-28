@@ -14,6 +14,7 @@ tags: [vazno,ispit]
 | 09:00 | Andjela Krizan      | Teorija |
 | 09:00 | Milena Stojić       | Teorija |
 | 09:00 | Petar Tesic         | Teorija |
+| 09:00 | Jelena Keljac       | Teorija |
 | 09:00 | Dunja Čitlučanin    | Odbrana |
 | 09:15 | Jovan Markovic      | Odbrana |
 | 09:30 | Sara Kapetinic      | Odbrana |
