@@ -23,15 +23,15 @@ Praktični seminarski radovi se brane **u terminu ispita** uz prisustvo asistent
 
 #### Samostalni praktični seminarski rad (40 poena)
 
-Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Kandidati su projekti otvorenog koda (npr. studentski projekti, ali ohrabrujemo odabir nestudentskih projekata). Prilikom odabira projekta, **uveriti se da je projekat u dobrom stanju za analizu** (prevodi se, kod je citljiv i modularan itd.). Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je **praktična**, uz reprodukciju delova seminarskog rada.
+Manjeg obima, praktičnog tipa. Izrada podrazumeva pokretanje alata za verifikaciju softvera ili pisanje testova za jedan projekat otvorenog koda. Prilikom odabira projekta, **uveriti se da je projekat u dobrom stanju za analizu** (prevodi se, kod je citljiv i modularan itd.). Nakon odabira projekta, i odgovarajućeg odobrenja od strane asistenta, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je **praktična**, uz reprodukciju delova seminarskog rada.
 
 Ciljevi i uslovi izrade praktičnog seminarskog rada:
-- Projekat koji se analizira mora biti otvorenog koda. Popularni kandidati su studentski projekti, u kom slučaju oni moraju biti projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa.
+- Projekat koji se analizira mora biti otvorenog koda. Popularni kandidati su studentski projekti, u kom slučaju oni moraju biti projekti **ranijih generacija** koji **nisu** već bili tema seminarskog rada iz ovog kursa. Ohrabrujemo odabir nestudentskih projekata.
 - Cilj projekta je pronalazak bagova ili uskih grla programa. Nije neophodno da se zapravo pronađu bagovi kako bi seminarski rad bio uspešan - analiza i izveštaji čine seminarski rad.
 - Neophodno je iskoristiti barem **5** alata/tehnika u okviru seminarskog rada. Pritom:
   - Testovi se broje kao jedna stavka, i mogu se pisati u bilo kom radnom okviru. Kategorije testova (jedinični, integracioni, i sl.) se broje kao zasebni alati. Uz testove je neophodno pratiti pokrivenost koda proizvoljnim alatom.
   - Jedan od alata mora biti alat za formatiranje izvornog koda i stilske provere (npr. `clang-format` ili `clang-tidy`).
-  - Jedan od alata mora biti alat koji nije ra₫en na vežbama.
+  - Jedan od alata mora biti alat koji nije rađen na vežbama.
   - Svaki `Valgrind` alat se broji zasebno s tim što je dozvoljeno koristiti maksimalno **2** Valgrind` alata.
   - Praćenje pokrivenosti koda bez testova nema smisla i nije validna metrika. Dakle, alati za pokrivenost (npr. `gcov`) se **ne broje** kao validni alati, osim ako ih ne prate odgovarajući testovi.
 - Za svaki korišćeni alat treba da budu dodate i skripte koje reprodukuju dobijene rezultate.
