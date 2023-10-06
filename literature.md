@@ -21,6 +21,7 @@ Naredni materijali su dosutupni besplatno na internetu (potražite):
 * Dinamička verifikacija softvera. Tehnike testiranja.
     * [Objedinjeni seminarski radovi vezani za testiranje.]({{site.materials}}/vs/predavanja/testiranjeKolekcijaMaterijala.pdf)
     * Stručno predavanje, Bogdan Knežević, CREATEQ: [Web UI test automatizacija uz pomoć Seleniuma]({{site.materials}}/vs/predavanja/02_testiranjeAutomatizacijaSelenium.pptx)
+    * Master rad, Ana Petrović: [Testiranje softvera u funkcionalnim programskim jezicima Elm i Elixir.](http://poincare.matf.bg.ac.rs/~milena/masteri/2023_AnaPetrovic/MasterRadAnaPetrovic.pdf)
     * Seminarski rad, Rastko Đorđević: [Metamorfno testiranje.]({{site.materials}}/vs/predavanja/02_testiranje/31_RastkoDjordjevic_MetamorfnoTestiranje.pdf)
     * Seminarski rad, Lazar Vasović: [Metamorfno testiranje: primena kod kompajlera.]({{site.materials}}/vs/predavanja/02_testiranje/32_LazarVasovic_EMI.pdf)
     * Seminarski rad, Lazar Mrkela, Ivan Milić: [Pregled osnovnih tehnika testiranja]({{site.materials}}/vs/predavanja/02_testiranje/09_TehnikeTestiranjaMrkelaMilic.pdf)
