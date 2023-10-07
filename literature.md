@@ -24,13 +24,13 @@ Naredni materijali su dosutupni besplatno na internetu (potražite):
     * Seminarski rad, Rastko Đorđević: [Metamorfno testiranje.]({{site.materials}}/vs/predavanja/02_testiranje/31_RastkoDjordjevic_MetamorfnoTestiranje.pdf)
     * Seminarski rad, Lazar Vasović: [Metamorfno testiranje: primena kod kompajlera.]({{site.materials}}/vs/predavanja/02_testiranje/32_LazarVasovic_EMI.pdf)
     * Seminarski rad, Lazar Mrkela, Ivan Milić: [Pregled osnovnih tehnika testiranja]({{site.materials}}/vs/predavanja/02_testiranje/09_TehnikeTestiranjaMrkelaMilic.pdf)
-    * Master rad, Nikola Dimić: [Automatsko testiranje mikroservisnih aplikacija.](http://poincare.matf.bg.ac.rs/~milena/masteri/2022_NikolaDimic/MasterRadNikolaDimic.pdf)
-    * Master rad, Milica Galjak: [Automatsko testiranje mobilnih aplikacija.](http://poincare.matf.bg.ac.rs/~milena/masteri/2023_MilicaGaljak/MasterRadMilicaGaljak.pdf)
-    * Master rad, Ana Petrović: [Testiranje softvera u funkcionalnim programskim jezicima Elm i Elixir.](http://poincare.matf.bg.ac.rs/~milena/masteri/2023_AnaPetrovic/MasterRadAnaPetrovic.pdf)
+    * Master rad, Nikola Dimić: [Automatsko testiranje mikroservisnih aplikacija.]({{site.poincare-prof}}/masteri/2022_NikolaDimic/MasterRadNikolaDimic.pdf)
+    * Master rad, Milica Galjak: [Automatsko testiranje mobilnih aplikacija.]({{site.poincare-prof}}/masteri/2023_MilicaGaljak/MasterRadMilicaGaljak.pdf)
+    * Master rad, Ana Petrović: [Testiranje softvera u funkcionalnim programskim jezicima Elm i Elixir.]({{site.poincare-prof}}/masteri/2023_AnaPetrovic/MasterRadAnaPetrovic.pdf)
     * Master rad, Ana Đorđević: [Automatsko generisanje test primera uz pomoć statičke analize i rešavača Z3]({{site.materials}}/vs/predavanja/02_testiranje/MasterRadAnaDjordjevic.pdf)
     * Master rad, Ana Mitrović: [Primena jezila Scala u paralelizaciji rasplinutog testiranja]({{site.materials}}/vs/predavanja/02_testiranje/MasterRadAnaMitrovic.pdf)
-    * Master rad, Nikola Perić: [Alat za generisanje i prikaz razlika u pokrivenosti koda testovima.](http://poincare.matf.bg.ac.rs/~milena/masteri/2023_NikolaPeric/MasterRadNikolaPeric.pdf)
-    * Master rad, Irena Blagojević: [Automatsko uklanjanje redundantnih testova](http://poincare.matf.bg.ac.rs/~milena/masteri/2022_IrenaBlagojevic/MasterRadIrenaBlagojevic.pdf)
+    * Master rad, Nikola Perić: [Alat za generisanje i prikaz razlika u pokrivenosti koda testovima.]({{site.poincare-prof}}/masteri/2023_NikolaPeric/MasterRadNikolaPeric.pdf)
+    * Master rad, Irena Blagojević: [Automatsko uklanjanje redundantnih testova]({{site.poincare-prof}}/masteri/2022_IrenaBlagojevic/MasterRadIrenaBlagojevic.pdf)
     * Seminarski rad, Petar Mićić: [Automatsko generisanje test primera korišćenjem genetskog algoritma]({{site.materials}}/vs/predavanja/02_testiranje/01_PetarMicic_AGTCGA.pdf)
     * Seminarski rad, Lazar Mladenović: [JUnit]({{site.materials}}/vs/predavanja/02_testiranje/03_LazarMladenovic_JUnit.pdf)
     * Seminarski rad, Dalma Beara: [Selenium – alat za testiranje veb aplikacija]({{site.materials}}/vs/predavanja/02_testiranje/06_DalmaBeara_Selenium.pdf)
@@ -46,10 +46,10 @@ Naredni materijali su dosutupni besplatno na internetu (potražite):
 * Dinamička verifikacija softvera. Debagovanje. Profajliranje. Analiza binarnog koda.
     * Master rad, Đorđe Todorović: [Podrška za naprednu analizu promenljivih lokalnih za niti pomoću alata Gnu Gdb]({{site.materials}}/vs/predavanja/03_dinamicka_analiza/MasterRadDjordjeTodorovic.pdf)
     * Master rad, Nikola Prica: [Podrška za profajliranje softvera uređaja sa ugrađenim računarom]({{site.materials}}/vs/predavanja/03_dinamicka_analiza/MasterRadNikolaPrica.pdf)
-    * Master rad, Vladimir Vuksanović: [Unapređenje infrastrukture LLVM čuvanjem originalne lokacije pri debagovanju izdvojenog koda](http://poincare.matf.bg.ac.rs/~milena/masteri/2023_VladimirVuksanovic/MasterRadVladimirVuksanovic.pdf)
+    * Master rad, Vladimir Vuksanović: [Unapređenje infrastrukture LLVM čuvanjem originalne lokacije pri debagovanju izdvojenog koda]({{site.poincare-prof}}/masteri/2023_VladimirVuksanovic/MasterRadVladimirVuksanovic.pdf)
     * Master rad, Aleksandra Karadžić: [Alat Valgrind - implementacija konvencije FPXX za arhitekturu MIPS]({{site.materials}}/vs/predavanja/03_dinamicka_analiza/MasterRadAleksandraKaradzic.pdf)
-    * Master rad, Lazar Mladenović: [Automatsko ispravljanje grešaka detektovanih pomoću alata Memcheck](http://poincare.matf.bg.ac.rs/~milena/masteri/2020_LazarMladenovic/MasterRadLazarMladenovic.pdf)
-    * Master rad, Marina Nikolić, [Prikupljanje i prikaz podataka o izvršavanju programa.](http://poincare.matf.bg.ac.rs/~milena/masteri/2019_MarinaNikolic/MasterRadMarinaNikolic.pdf)
+    * Master rad, Lazar Mladenović: [Automatsko ispravljanje grešaka detektovanih pomoću alata Memcheck]({{site.poincare-prof}}/masteri/2020_LazarMladenovic/MasterRadLazarMladenovic.pdf)
+    * Master rad, Marina Nikolić, [Prikupljanje i prikaz podataka o izvršavanju programa.]({{site.poincare-prof}}/masteri/2019_MarinaNikolic/MasterRadMarinaNikolic.pdf)
     * Seminarski rad, Nevena Nikolić: [Profajleri - Knutov algoritam]({{site.materials}}/vs/predavanja/03_dinamicka_analiza/03_NevenaNikolic_ProfajliranjeIvica.pdf)
     * Seminarski rad, Luka Kalinić: [Kako rade debageri?]({{site.materials}}/vs/predavanja/03_dinamicka_analiza/01_Luka_Kalinic_KakoRadeDebageri.pdf)
     * Seminarski rad, Nikola Dimitrijević: [Sistemski poziv ptrace]({{site.materials}}/vs/predavanja/03_dinamicka_analiza/02_NikolaDimitrijevic_Ptrace.pdf)
@@ -67,10 +67,10 @@ Naredni materijali su dosutupni besplatno na internetu (potražite):
     * Seminarski rad, Marko Spasić: [Debagovanje i profajliranje GLSL šejder programa]({{site.materials}}/vs/predavanja/03_dinamicka_analiza/14_GLSLdebagovanje_MarkoSpasic.pdf)
 
 * Statička analiza softvera. Pregledi koda.
-    * Master rad, Ognjen Plavšić: [Alat za statičku analizu i predlaganje izmena u C++ kodu](http://poincare.matf.bg.ac.rs/~milena/masteri/2022_OgnjenPlavsic/MasterRadOgnjenPlavsic.pdf) 
-    * Master rad, Mirko Brkušanin: [Implementacija pravila iz standarda AUTOSAR C++14 u okviru programskog prevodioca Clang](http://poincare.matf.bg.ac.rs/~milena/masteri/2022_MirkoBrkusanin/MasterRadMirkoBrkusanin.pdf)
-    * Master rad, Nikola Vidič, [Primena mašinskog učenja u verifikaciji softvera.](http://poincare.matf.bg.ac.rs/~milena/masteri/2019_NikolaVidic/MasterRadNikolaVidic.pdf)
-    * Master rad, Ivan Ristović: [Jezički invarijantna provera semantičke ekvialentnosti strukturno sličnih segmenata imperativnog koda.](http://poincare.matf.bg.ac.rs/~milena/masteri/2020_IvanRistovic/MasterRadIvanRistovic.pdf)
+    * Master rad, Ognjen Plavšić: [Alat za statičku analizu i predlaganje izmena u C++ kodu]({{site.poincare-prof}}/masteri/2022_OgnjenPlavsic/MasterRadOgnjenPlavsic.pdf) 
+    * Master rad, Mirko Brkušanin: [Implementacija pravila iz standarda AUTOSAR C++14 u okviru programskog prevodioca Clang]({{site.poincare-prof}}/masteri/2022_MirkoBrkusanin/MasterRadMirkoBrkusanin.pdf)
+    * Master rad, Nikola Vidič, [Primena mašinskog učenja u verifikaciji softvera.]({{site.poincare-prof}}/masteri/2019_NikolaVidic/MasterRadNikolaVidic.pdf)
+    * Master rad, Ivan Ristović: [Jezički invarijantna provera semantičke ekvialentnosti strukturno sličnih segmenata imperativnog koda.]({{site.poincare-prof}}/masteri/2020_IvanRistovic/MasterRadIvanRistovic.pdf)
     * Seminarski rad, Nikola Janković, Andela Milićević, Katarina Savičić, Dunja Spasić: [Metode za pregled kôda i njihov značaj]({{site.materials}}/vs/predavanja/04_staticka_analiza_pregledi/01_PreglediKoda_JankovicMilicevicSavicicSpasic.pdf)
     * Seminarski rad, Jovana Pejkić: [ESLint - alat za statičku analizu koda u JavaScript-u]({{site.materials}}/vs/predavanja/04_staticka_analiza_pregledi/02_ESLintAlatZaStatickuAnalizuKodaUJavaScriptu_JovanaPejkic.pdf)
 
@@ -78,8 +78,8 @@ Naredni materijali su dosutupni besplatno na internetu (potražite):
     * [A Survey of Symbolic Execution Techniques](https://dl.acm.org/citation.cfm?id=3182657) ACM Computing Surveys (CSUR), Volume 51 Issue 3, July 2018
         [Besplatno dostupna verzija rada](https://arxiv.org/pdf/1610.00502.pdf)
     * [A Systematic Review of Search Strategies in Dynamic Symbolic Execution](https://www.sciencedirect.com/science/article/abs/pii/S0920548919300066), Arash Sabbaghi, Mohammad Reza Keyvanpour. Computer Standards & Interfaces. 2020 Oct 1;72:103444.
-    * Master rad, Strahinja Stanojević: [Proširivanje alata KLEE naprednim algoritmom pretrage stabla izvršavanja programa.](http://poincare.matf.bg.ac.rs/~milena/masteri/2020_StrahinjaStanojevic/MasterRadStrahinjaStanojevic.pdf)
-    * Master rad, Braniclava Živković: [Паралелизациjа статичке верификациjе софтвера.](http://poincare.matf.bg.ac.rs/~milena/masteri/2017_BranislavaZivkovic/MasterRadBranislavaZivkovic.pdf)
+    * Master rad, Strahinja Stanojević: [Proširivanje alata KLEE naprednim algoritmom pretrage stabla izvršavanja programa.]({{site.poincare-prof}}/masteri/2020_StrahinjaStanojevic/MasterRadStrahinjaStanojevic.pdf)
+    * Master rad, Braniclava Živković: [Паралелизациjа статичке верификациjе софтвера.]({{site.poincare-prof}}/masteri/2017_BranislavaZivkovic/MasterRadBranislavaZivkovic.pdf)
     * Seminarski rad, Aleksandar Anžel: [Simboličko izvršavanje - Konkoličko izvršavanje]({{site.materials}}/vs/predavanja/05_simbolicko_izvrsavanje/SimbolickoIzvrsavanje/16_AleksandarAnžel_KonkoličkoIzvršavanje.pdf).
     * Seminarski rad, Nikola Stojević: [Simboličko izvršavanje - Modelovanje okoline]({{site.materials}}/vs/predavanja/05_simbolicko_izvrsavanje/SimbolickoIzvrsavanje/18_Nikola_Stojevic_ModelovanjeOkoline.pdf).
     * Seminarski rad, Filip Lazić: [Simboličko izvršavanje - Eksplozija putanja i regulisanje broja putanja (1)]({{site.materials}}/vs/predavanja/05_simbolicko_izvrsavanje/SimbolickoIzvrsavanje/19_FilipLazic_Eksplozija putanja i regulisanje broja putanji (Pruning Unrealizable Paths, Function and Loop Summarization).pdf).
