@@ -18,7 +18,7 @@ Neke od tema na kursu:
 - Apstraktna interpretacija
 
 ### Predmetni nastavnik
-[prof. dr Milena Vujošević Janičić](http://poincare.matf.bg.ac.rs/~milena.vujosevic.janicic/)
+[prof. dr Milena Vujošević Janičić]({{site.poincare-prof}})
 
 ### Asistent
-[Ivan Ristović](http://poincare.matf.bg.ac.rs/~ivan.ristovic/)
+[Ivan Ristović]({{site.poincare-ass}})
