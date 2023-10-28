@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rezultati na proverama znanja
+title: Rezultati provera znanja
 subtitle: 
 categories: Predavanja
 tags: [vazno,ispit]
