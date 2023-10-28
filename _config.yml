@@ -129,7 +129,7 @@ header_pages:
   - practices.md
   - literature.md
   - archives.html
-  - categories.html
+  # - categories.html
   # - tags.html
 
 # Page default value

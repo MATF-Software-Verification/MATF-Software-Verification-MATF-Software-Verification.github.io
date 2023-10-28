@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Obaveze studenata 
+title: Obaveze
 ---
 
 
