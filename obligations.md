@@ -3,6 +3,11 @@ layout: about
 title: Obaveze
 ---
 
+## Linkovi
+
+- [Forma za prijavu seminarskih radova]({{site.projects-signup-form}})
+- [Prethodno odabrane teme za samostalni seminarski rad]({{site.projects-single}})
+- [Teme za istraživački seminarski rad]({{site.projects-group}})
 
 ## Izborni predmet
 - 8 ESPB bodova
@@ -19,7 +24,7 @@ Predispitne obaveze obuhvataju praktični seminarski rad (koji je **obavezan**) 
 
 Studenti imaju opciju da biraju između dva tipa praktičnog seminarskog rada. Praktični seminarski rad je **obavezan**. Pratiti [Obaveštenja](archives.html) radi blagovremenog izbora teme. Praktični seminarski rad je neophodno prijaviti do **1. decembra** tekuće godine. 
 
-Praktični seminarski radovi se brane **u terminu ispita** uz prisustvo asistenta **uz prethodnu prijavu u formi** koja će biti okačena nedelju dana pred ispit. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova tokom odbrane ukoliko su testovi deo seminarskog rada. Praktični seminarski radovi se moraju raditi u repozitorijumima otvorenim od strane asistenta, u okviru [GitHub organizacije](https://github.com/MATF-Software-Verification).
+Praktični seminarski radovi se brane **u terminu ispita** uz prisustvo asistenta **uz prethodnu prijavu u formi** koja će biti okačena nedelju dana pred ispit. Očekuje se da student dođe pripremljen za prezentovanje seminarskog rada u svom okruženju (npr. tako što će doneti laptop), predstaviti projekat i odgovoriti na pitanja od strane asistenta. Pitanja mogu uključiti i pokretanje alata korišćenih za izradu seminarskog rada ili korišćenih na vežbama, kao i pisanje dodatnih testova tokom odbrane ukoliko su testovi deo seminarskog rada. Praktični seminarski radovi se moraju raditi u repozitorijumima otvorenim od strane asistenta, u okviru [GitHub organizacije]({{site.github-org}}).
 
 #### Samostalni praktični seminarski rad (40 poena)
 
@@ -100,7 +105,7 @@ Organizacija repozitorijuma:
 
 **Napomena: Repozitorijumi koji ne prate strukturu prikazanu iznad ili nemaju tražene informacije u README fajlu neće biti prihvaćeni!**
 
-Forma za prijavu samostalnih seminarskih radova se može naći na sledećem [linku](https://forms.gle/uhDiDK2R75J7vdjH6) (odabrati opciju _samostalni seminarski rad_). Repozitorijumi koji su već bili tema za samostalni seminarski rad iz ovog kursa se mogu naći na sledećem [linku](https://docs.google.com/spreadsheets/d/1tSoUTqnhZ7V26ov_o9QCxz_I1JAxEwFAkB34PmzVOhQ/edit?usp=sharing).
+Forma za prijavu samostalnih seminarskih radova se može naći na sledećem [linku]({{site.projects-signup-form}}) (odabrati opciju _samostalni seminarski rad_). Repozitorijumi koji su već bili tema za samostalni seminarski rad iz ovog kursa se mogu naći na sledećem [linku]({{site.projects-single}}).
 
 #### Istraživački praktični seminarski rad (preporuka 2+ člana, 60 poena)
 
@@ -110,7 +115,7 @@ Većeg obima, istraživačkog tipa. Teme za projekat su dostupne unapred. Izuzet
 
 Izrada podrazumeva kreiranje novih ili nadograđivanje postojećih alata za verifikaciju softvera, kao i njihovu verifikaciju koristeći barem alate pomenute na vežbama. Nakon odabira projekta, i odgovarajućeg odobrenja od strane nastavnika, biće kreirani repozitorijumi za izradu seminarskih radova. Odbrana je usmena, uz prikaz rada. Nakon odbrane istraživačkog seminarskog rada biće sa profesorkom dogovoren termin za prezentovanje rada.
 
-Spisak predviđenih tema se može naći [ovde](https://docs.google.com/document/d/1yueEK1Cs7Oru6gCFrSjrf4FfK5-P9P4TB21XBr-gXLs/edit?usp=sharing). 
+Spisak predviđenih tema se može naći [ovde]({{site.projects-group}}). 
 
 U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan detaljan `README` fajl koji sadrži:
 - Informacije o autorima 
@@ -126,7 +131,7 @@ Pored `README` fajla, potrebno je da postoji i fajl `SystemDescription` (pdf ili
 - opis arhitekture sistema (opis osnovnih modula implementacije),
 - opis rešenja problema (osnovne ideje, obrazloženja za ključne odluke, opis osnovnog algoritma)
 
-Forma za prijavu istraživačkih seminarskih radova se može naći na sledećem [linku](https://forms.gle/uhDiDK2R75J7vdjH6) (ignorisati pitanja vezana za samostalne seminarske radove).
+Forma za prijavu istraživačkih seminarskih radova se može naći na sledećem [linku]({{site.projects-signup-form}}) (ignorisati pitanja vezana za samostalne seminarske radove).
 
 ### Samostalni teorijski seminarski rad (izborni, 10 poena)
 
