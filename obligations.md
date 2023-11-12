@@ -145,6 +145,8 @@ Prijava teme radi se preko naredne [forme](https://forms.gle/tWCw3H9Sed2QYux29).
 
 Teorijski seminarski rad se predaje preko naredne [forme](http://www.alas.matf.bg.ac.rs/~milena/vs_seminarski.html). Pratite uputstva data u okviru forme. 
 
+Ukoliko uradite i predate rad pre Nove godine, maksimalni broj poena za seminarski je 12. Ukoliko uradite i predate seminarski rad u skladu sa predviđenim rokom (pre ispitnog roka u januaru), maksimalni broj poena je 10. Ukoliko uradite i predate seminarski rad nakon tog roka, maksimalni broj poena se smanjuje, u zavisnosti od zakašnjenja, a minimum iznosi 5 poena. 
+
 ## Završni ispit (50 poena)
 **Teorijski ispit (50 poena)**: Polaže se pismeno, izvlači se pet ispitnih pitanja sa [spiska ispitnih pitanja]({{site.poincare-vs}}/predavanja/VS_IspitanaPitanja.pdf).
 
