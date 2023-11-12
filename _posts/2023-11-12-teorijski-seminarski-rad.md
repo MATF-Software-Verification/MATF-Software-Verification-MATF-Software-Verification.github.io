@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prijava teme za teorijski seminarski rad
+title: Prijava teme i rokovi izrade za teorijski seminarski rad
 subtitle: 
 categories: Predavanja
 tags: [seminarski]
