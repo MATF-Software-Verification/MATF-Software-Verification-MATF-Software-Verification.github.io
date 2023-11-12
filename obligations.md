@@ -137,9 +137,9 @@ Forma za prijavu istraživačkih seminarskih radova se može naći na sledećem 
 
 Teorijski seminarski radovi se biraju u toku meseca novembra, a rok za predavanje je početkom januara. Teorijski seminarski rad nije obavezan. Precizni termini su uvek istaktnutu u okviru [Obaveštenja](archives.html).
 
-Teme za teorijske seminarske radove možete da nađete na narednoj [adresi]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2022.pdf). Teme koje su već izabrane možete da pratite [ovde]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2022.txt). Šablon za izradu seminarskog rada možete naći [ovde](http://www.verifikacijasoftvera.matf.bg.ac.rs/vs/seminarski/sablon_za_seminarski_rad.zip).
+Teme za teorijske seminarske radove možete da nađete na narednoj [adresi]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2023.pdf). Teme koje su već izabrane možete da pratite [ovde]({{site.poincare-vs}}/seminarski/temeZaTeorijskiSeminarski2023.txt). Šablon za izradu seminarskog rada možete naći [ovde](http://www.verifikacijasoftvera.matf.bg.ac.rs/vs/seminarski/sablon_za_seminarski_rad.zip).
 
-Prijava tema vrši se u **novembru** a rok za izradu teorijskog seminarskog rada je do **početka prvog ispitnog roka u januaru 2023**. 
+Prijava tema vrši se u **novembru** a rok za izradu teorijskog seminarskog rada je do **početka prvog ispitnog roka u januaru 2024**. 
 
 Prijava teme radi se preko naredne [forme](https://forms.gle/tWCw3H9Sed2QYux29). 
 
