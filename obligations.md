@@ -5,9 +5,10 @@ title: Obaveze
 
 ## Linkovi
 
-- [Forma za prijavu seminarskih radova]({{site.projects-signup-form}})
-- [Prethodno odabrane teme za samostalni seminarski rad]({{site.projects-single}})
-- [Teme za istraživački seminarski rad]({{site.projects-group}})
+- [Forma za prijavu praktičnih seminarskih radova]({{site.projects-signup-form}})
+- [Prethodno odabrane teme za samostalni praktični seminarski rad]({{site.projects-single}})
+- [Teme za praktični istraživački seminarski rad]({{site.projects-group}})
+- Važni linkovi vezani za teorijski seminarski rad su dati u okviru dela za teorijski seminarski rad
 
 ## Izborni predmet
 - 8 ESPB bodova
