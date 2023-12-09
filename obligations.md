@@ -46,7 +46,6 @@ Pored `README` fajla, potrebno je da postoji i (markdown ili PDF) fajl `ProjectA
 Primer korektne organizacije repozitorijuma:
 ```txt
 .
-
 ├── .github               // CI konfiguracija: 
 │   └── workflows         // preuzeti sa: {{site.projects-ci}}
 │       ├── gate.yml
