@@ -43,11 +43,17 @@ U okviru repozitorijuma za izradu seminarskog rada, potrebno je da bude napisan 
 
 Pored `README` fajla, potrebno je da postoji i (markdown ili PDF) fajl `ProjectAnalysisReport` koji sadrži detaljan opis analize projekta i zaključcima koji su napravljeni. Referencu na projekat koji se analizira dodati kao [git submodul](https://git-scm.com/docs/git-submodule). Svaki alat koji je korišćen treba da ima poseban direktorijum u kome se nalaze rezultati rada alata kao i opcione skripte za pokretanje.
 
-Organizacija repozitorijuma:
+Primer korektne organizacije repozitorijuma:
 ```txt
 .
-├── git-submodule-of-project-to-analyze @ commit-hash
-├── src
+
+├── .github               // CI konfiguracija: 
+│   └── workflows         // preuzeti sa: {{site.projects-ci}}
+│       ├── gate.yml
+│       └── tickets.yml
+├── git-submodul-of-project-to-analyze @ commit-hash
+├── custom.patch          // changes to the original project 
+├── unit_tests
 │   ├── run_tests.py
 │   ├── RunningTests.md
 │   ├── RunningTests.pdf
@@ -97,7 +103,7 @@ Organizacija repozitorijuma:
 └── ProjectAnalysisReport.pdf
 ```
 
-**Napomena: Repozitorijumi koji ne prate strukturu prikazanu iznad ili nemaju tražene informacije u README fajlu neće biti prihvaćeni!**
+**Napomena: Repozitorijumi koji ne prate strukturu prikazanu iznad ili nemaju tražene informacije u README fajlu neće biti prihvaćeni! Svi repozitorijumi moraju imati instaliranu CI konfiguraciju koja se može preuzeti sa {{site.projects-ci}}.**
 
 Forma za prijavu samostalnih seminarskih radova se može naći na sledećem [linku]({{site.projects-signup-form}}) (odabrati opciju _samostalni seminarski rad_). Repozitorijumi koji su već bili tema za samostalni seminarski rad iz ovog kursa se mogu naći na sledećem [linku]({{site.projects-single}}).
 
