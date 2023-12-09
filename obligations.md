@@ -103,7 +103,7 @@ Primer korektne organizacije repozitorijuma:
 └── ProjectAnalysisReport.pdf
 ```
 
-**Napomena: Repozitorijumi koji ne prate strukturu prikazanu iznad ili nemaju tražene informacije u README fajlu neće biti prihvaćeni! Svi repozitorijumi moraju imati instaliranu CI konfiguraciju koja se može preuzeti sa {{site.projects-ci}}.**
+**Napomena: Repozitorijumi koji ne prate strukturu prikazanu iznad ili nemaju tražene informacije u README fajlu neće biti prihvaćeni! Svi repozitorijumi moraju imati instaliranu [CI konfiguraciju]({{site.projects-ci}}).**
 
 Forma za prijavu samostalnih seminarskih radova se može naći na sledećem [linku]({{site.projects-signup-form}}) (odabrati opciju _samostalni seminarski rad_). Repozitorijumi koji su već bili tema za samostalni seminarski rad iz ovog kursa se mogu naći na sledećem [linku]({{site.projects-single}}).
 
