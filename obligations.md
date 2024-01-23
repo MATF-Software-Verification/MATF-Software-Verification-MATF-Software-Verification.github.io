@@ -29,7 +29,7 @@ Ciljevi i uslovi izrade praktičnog seminarskog rada:
 - Cilj projekta je pronalazak bagova ili uskih grla programa. Nije neophodno da se zapravo pronađu bagovi kako bi seminarski rad bio uspešan - analiza i izveštaji čine seminarski rad.
 - Neophodno je iskoristiti barem **5** alata/tehnika u okviru seminarskog rada. Pritom:
   - Testovi se broje kao jedna stavka, i mogu se pisati u bilo kom radnom okviru. Kategorije testova (jedinični, integracioni, i sl.) se broje kao zasebni alati. Uz testove je neophodno pratiti pokrivenost koda proizvoljnim alatom.
-  - Jedan od alata mora biti alat za formatiranje izvornog koda i stilske provere (npr. `clang-format` ili `clang-tidy`).
+  - Maksimalno jedan od alata mora biti alat za formatiranje izvornog koda i stilske provere (npr. `clang-format` ili `clang-tidy`).
   - Jedan od alata mora biti alat koji nije rađen na vežbama.
   - Svaki `Valgrind` alat se broji zasebno s tim što je dozvoljeno koristiti maksimalno **2** Valgrind` alata.
   - Praćenje pokrivenosti koda bez testova nema smisla i nije validna metrika. Dakle, alati za pokrivenost (npr. `gcov`) se **ne broje** kao validni alati, osim ako ih ne prate odgovarajući testovi.
