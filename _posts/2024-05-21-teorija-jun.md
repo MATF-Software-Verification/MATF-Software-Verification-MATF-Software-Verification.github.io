@@ -7,7 +7,9 @@ tags: [vazno,ispit]
 ---
 
 Teoriju ili deo teorije možete da polažete u četvrtak 30. maja u 10h u učionici 706. 
-Mozete da polazete ceo ispit ili deo ispita (najmanje dva pitanja, osim za studente kojima je preostalo samo jedno pitanje).
+Mozete da polazete ceo ispit ili deo ispita (najmanje dva pitanja, osim za studente kojima je preostalo samo jedno pitanje). 
+
+Napomena: Ovo je dodatni termin i ne utiče na termin u okviru ispitnog roka. 
 
 Molim Vas da mi se javite mejlom do utorka 28. maja ukoliko zelite da izadjete na ispit. Neophodno je da mi se javite radi organizacije samog ispita.
 
